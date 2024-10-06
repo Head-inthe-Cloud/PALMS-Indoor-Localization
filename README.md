@@ -1,5 +1,5 @@
 <div align="center">
-<h1>PALMS: Plane-based Accessible Indoor Localization for Mobile Smartphones</h1>
+<h1>PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones</h1>
 
 [**Yunqian Cheng**](https://liheyoung.github.io/) · [**Roberto Manduchi**](https://bingykang.github.io/)
 
@@ -40,3 +40,26 @@ We are currently preparing the code and dataset for public release. It will be m
 For any questions or inquiries, please contact:
 
 - Yunqian Cheng: [ychen827@ucsc.edu](mailto:ychen827@ucsc.edu)
+
+
+## Acknowledgement
+Research reported in this publication was supported by the National Eye Institute of the National Institutes of Health under award number R01EY029260-01. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
+
+
+<!-- ## LICENSE -->
+
+## Citation
+
+If you find this project useful, please consider citing:
+
+```bibtex
+@misc{Cheng_Manduchi_2024,
+  title={Palms: Plane-based accessible indoor localization using Mobile smartphones},
+  author={Cheng, Yunqian and Manduchi, Roberto},
+  journal={eScholarship, University of California},
+  url={https://escholarship.org/uc/item/7bw6797s},
+  year={2024},
+  month={Aug}
+}
+```
+
