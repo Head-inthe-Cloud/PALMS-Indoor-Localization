@@ -1,7 +1,7 @@
 <div align="center">
 <h1>PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones</h1>
 
-[**Yunqian Cheng**](https://liheyoung.github.io/) · [**Roberto Manduchi**](https://bingykang.github.io/)
+[**Yunqian Cheng**](http://yunqiancheng.cloud/) · [**Roberto Manduchi**](https://users.soe.ucsc.edu/~manduchi/)
 
 University of California, Santa Cruz
 <br>
