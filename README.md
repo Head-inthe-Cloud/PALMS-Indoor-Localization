@@ -1,5 +1,21 @@
-# PALMS-Indoor-Localization
+<div align="center">
+<h1>PALMS: Plane-based Accessible Indoor Localization for Mobile Smartphones</h1>
+
+[**Yunqian Cheng**](https://liheyoung.github.io/) · [**Roberto Manduchi**](https://bingykang.github.io/)
+
+University of California, Santa Cruz
+<br>
+
+<a href="https://escholarship.org/uc/item/7bw6797s"><img src='https://img.shields.io/badge/Paper-PALMS-red' alt='Paper PDF'></a>
+<a href='https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-for-Mobile-Smartphones'><img src='https://img.shields.io/badge/Project_Page-PALMS-green' alt='Project Page'></a>
+<a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
+<a href=''><img src='https://img.shields.io/badge/Datset-PALMS-yellow' alt='Dataset'></a>
+</div>
+
+
 A place for the code and data for the paper "PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones" (IPIN 2024 submission) and any follow-up works.
+
+![PALMS Architecture](./images/IPIN%202024%20Visualizations.svg)
 
 ## Overview
 
