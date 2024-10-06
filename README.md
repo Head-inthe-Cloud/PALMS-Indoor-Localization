@@ -24,7 +24,7 @@ This work presents PALMS: Plane-based Accessible Indoor Localization Using Mobil
 
 ## Overview
 
-**PALMS** (Plane-based Accessible Localization Using Mobile Smartphones) is an innovative system designed for indoor global localization and relocalization using publicly available floor plans. This project leverages smartphone LiDAR capabilities to enhance accessibility for all users, including those with visual impairments.
+**PALMS** (Plane-based Accessible Indoor Localization Using Mobile Smartphones) is an innovative system designed for indoor global localization and relocalization using publicly available floor plans. This project leverages smartphone LiDAR capabilities to enhance accessibility for all users, including those with visual impairments.
 
 ### Features:
 - Particle filter initialization using the Certainly Empty Space (CES) constraint.
@@ -33,7 +33,7 @@ This work presents PALMS: Plane-based Accessible Indoor Localization Using Mobil
 - Scalable and practical approach for indoor wayfinding.
 
 ## Dataset
-We are currently preparing the dataset for public release. It will be made available soon. Stay tuned!
+We are currently preparing the code and dataset for public release. It will be made available soon. Stay tuned!
 
 ## Contact
 
