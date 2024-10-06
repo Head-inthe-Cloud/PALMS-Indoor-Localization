@@ -8,14 +8,19 @@ University of California, Santa Cruz
 
 <a href="https://escholarship.org/uc/item/7bw6797s"><img src='https://img.shields.io/badge/Paper-PALMS-red' alt='Paper PDF'></a>
 <a href='https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-for-Mobile-Smartphones'><img src='https://img.shields.io/badge/Project_Page-PALMS-green' alt='Project Page'></a>
-<a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a>
-<a href=''><img src='https://img.shields.io/badge/Datset-PALMS-yellow' alt='Dataset'></a>
+<!-- <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-blue'></a> -->
+<!-- <a href=''><img src='https://img.shields.io/badge/Datset-PALMS-yellow' alt='Dataset'></a> -->
 </div>
 
 
-A place for the code and data for the paper "PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones" (IPIN 2024 submission) and any follow-up works.
+This work presents PALMS: Plane-based Accessible Indoor Localization Using Mobile Smartphones. It allows previous-visit-free indoor localization with mobile smartphones using a one-time camera/LiDAR scan, IMU sensors, and the floor plan of the indoor space.
 
 ![PALMS Architecture](./images/IPIN%202024%20Visualizations.svg)
+
+## News
+<!-- - **2024-07-29:** Paper, project page, code, models, demo, and benchmark are all released. -->
+- **2024-07-29:** Paper accepted to IPIN 2024!
+
 
 ## Overview
 
