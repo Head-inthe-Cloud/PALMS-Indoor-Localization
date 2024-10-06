@@ -53,7 +53,7 @@ Research reported in this publication was supported by the National Eye Institut
 If you find this project useful, please consider citing:
 
 ```bibtex
-@misc{Cheng_Manduchi_2024,
+@article{Cheng_Manduchi_2024,
   title={Palms: Plane-based accessible indoor localization using Mobile smartphones},
   author={Cheng, Yunqian and Manduchi, Roberto},
   journal={eScholarship, University of California},
